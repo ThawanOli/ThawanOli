@@ -1,27 +1,43 @@
 # Olá, eu sou o Thawan Oliveira! 👋
 
-Estudante de **Ciência da Computação** (6º Período) no **Unileste**. Atualmente focado em transicionar minha carreira para a área de Tecnologia, unindo minha resiliência do setor de serviços com a lógica de programação.
-
-### 🚀 Sobre mim
-- 🎓 Cursando Bacharelado em Ciência da Computação (Formatura prevista: Julho/2027).
-- 🐍 Focado em **Python** para automação e análise de dados.
-- 🌐 Recentemente certificado em **Desenvolvimento Web** (HTML/CSS) pela Fundação Bradesco.
-- 🇺🇸 Inglês Intermediário Superior (**Nível B2** - Wizard W8).
-- 📍 João Monlevade, MG.
-
-### 🛠️ Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 📈 Meus Projetos em Destaque
-- **Automações em Python:** Scripts para otimização de tarefas e tratamento de dados.
-- **Portfólio Web:** Landing pages e sites responsivos criados com HTML e CSS.
+###  Who am I? / Quem sou eu?
+*  Estudante de **Ciência da Computação (6º Período)** no **Unileste**.
+*  Residente em **João Monlevade, MG**.
+*  Em transição de carreira para a área de Tecnologia, unindo a resiliência e a lógica de programação para criar soluções eficientes.
 
 ---
 
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thawan-oliveira-89157225b/)
+###  What am I currently working on? / No que estou trabalhando atualmente?
+*  **Target:** Desenvolvimento de um aplicativo em **React Native** com integração SQLite e histórico de transações financeiras.
+*  **Shadow-System:** Criação de uma aplicação web gamificada inspirada em *Solo Leveling*, utilizando HTML, CSS e JavaScript para transformar tarefas diárias em progresso de RPG.
+*  **Cybersecurity & Automações:** Desenvolvimento de scripts em **Python** para segurança e automação de tarefas cotidianas.
+*  Buscando ativamente uma oportunidade de **Estágio em TI** (presencial em João Monlevade ou Remoto).
+
+---
+
+###  What tools do you use? / Quais ferramentas eu utilizo?
+
+####  Linguagens e Tecnologias
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+</p>
+
+####  Web & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+###  How to reach you? / Como me encontrar?
+
+*  **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com/in/thawan-oliveira-8915j225b)
+*  **E-mail:** [Mande uma mensagem](mailto:thawanoliveira13@gmail.com)
