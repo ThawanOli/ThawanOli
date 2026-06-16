@@ -8,7 +8,6 @@
 ---
 
 ###  What am I currently working on? / No que estou trabalhando atualmente?
-*  **Target:** Desenvolvimento de um aplicativo em **React Native** com integração SQLite e histórico de transações financeiras.
 *  **Shadow-System:** Criação de uma aplicação web gamificada inspirada em *Solo Leveling*, utilizando HTML, CSS e JavaScript para transformar tarefas diárias em progresso de RPG.
 *  **Cybersecurity & Automações:** Desenvolvimento de scripts em **Python** para segurança e automação de tarefas cotidianas.
 *  Buscando ativamente uma oportunidade de **Estágio em TI** (presencial em João Monlevade ou Remoto).
