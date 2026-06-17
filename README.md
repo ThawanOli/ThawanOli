@@ -36,6 +36,14 @@
 
 ---
 
+## GitHub Status
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThawanOli&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThawanOli&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ###  How to reach you? / Como me encontrar?
 
 *  **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com/in/thawan-oliveira-8915j225b)
