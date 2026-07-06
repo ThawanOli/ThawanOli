@@ -38,9 +38,7 @@
 
 ## GitHub Status
 <p align="left">
-  <img height="170" src="https://github-readme-stats.com/api?username=ThawanOli&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.com/api/top-langs/?username=ThawanOli&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThawanOli&theme=nord" width="100%" alt="Gráfico de Atividades do Thawan" /></p>
 
 ---
 
