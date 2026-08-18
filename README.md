@@ -1,7 +1,7 @@
 # Olá, eu sou o Thawan Oliveira! 👋
 
 ###  Who am I? / Quem sou eu?
-*  Estudante de **Ciência da Computação (6º Período)** no **Unileste**.
+*  Estudante de **Ciência da Computação (7º Período)** no **Unileste**.
 *  Residente em **João Monlevade, MG**.
 *  Em transição de carreira para a área de Tecnologia, unindo a resiliência e a lógica de programação para criar soluções eficientes.
 
